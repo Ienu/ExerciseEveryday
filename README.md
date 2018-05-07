@@ -7,3 +7,5 @@
 [2. Hello World 2728: 第一个C++程序](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2728.md)
 
 [3. 格式输出 2734: 十进制到八进制](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2734.md)
+
+微信公众号：
