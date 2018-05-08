@@ -8,6 +8,8 @@
 
 [3. 格式输出 2734: 十进制到八进制](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2734.md)
 
+[4. 移位运算 2869: 计算费马数](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2869.md)
+
 微信公众号：
 
 ![weixin](https://github.com/Ienu/ExerciseEveryday/blob/master/qr.jpg)
