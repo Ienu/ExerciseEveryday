@@ -12,6 +12,8 @@
 
 [5. 阶乘 2729: 求12以内n的阶乘](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2729.md)
 
+[6. 数值计算 2720: 大象喝水](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2720.md)
+
 微信公众号：
 
 ![weixin](https://github.com/Ienu/ExerciseEveryday/blob/master/qr.jpg)
