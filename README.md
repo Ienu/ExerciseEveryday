@@ -14,6 +14,8 @@
 
 [6. 数值计算 2720: 大象喝水](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2720.md)
 
+[7. 循环累加 2679: 整数的立方和](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2679.md)
+
 微信公众号：
 
 ![weixin](https://github.com/Ienu/ExerciseEveryday/blob/master/qr.jpg)
