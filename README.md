@@ -16,6 +16,8 @@
 
 [7. 循环累加 2679: 整数的立方和](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2679.md)
 
+[8. 超长整型 2730: 求20以内n的阶乘](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2730.md)
+
 微信公众号：
 
 ![weixin](https://github.com/Ienu/ExerciseEveryday/blob/master/qr.jpg)
