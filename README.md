@@ -18,6 +18,8 @@
 
 [8. 超长整型 2730: 求20以内n的阶乘](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2730.md)
 
+[9. 字符指针 2681: 求字符串长度](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2681.md)
+
 微信公众号：
 
 ![weixin](https://github.com/Ienu/ExerciseEveryday/blob/master/qr.jpg)
