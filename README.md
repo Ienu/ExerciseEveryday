@@ -20,11 +20,14 @@
 
 [9. 字符指针 2681: 求字符串长度](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2681.md)
 
+[10. 循环累乘求和 2684: 求阶乘的和](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2684.md)
+
 ## 顺序列表
 
 [1000](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/1000-1099/1000.md)
 [2679](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2679.md)
 [2681](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2681.md)
+[2684](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2684.md)
 [2720](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2720.md)
 [2728](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2728.md)
 [2729](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2729.md)
