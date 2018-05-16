@@ -3,11 +3,6 @@ using namespace std;
 int main() {
 	int day;
 	cin >> day;
-	if (day % 2 == 0 || day == 7) {
-		cout << "YES" << endl;
-	}
-	else {
-		cout << "NO" << endl;
-	}
+	cout << ((day % 2 == 0 || day == 7) ? "YES" : "NO") << endl;
 	return 0;
 }
