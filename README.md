@@ -26,6 +26,8 @@
 
 [12. 判断语句 2718: 晶晶赴约会](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2718.md)
 
+[13. 进制转换 2735: 八进制到十进制](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2735.md)
+
 ## 顺序列表
 
 [1000](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/1000-1099/1000.md)
@@ -39,6 +41,7 @@
 [2729](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2729.md)
 [2730](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2730.md)
 [2734](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2734.md)
+[2735](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2735.md)
 [2869](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2869.md)
 
 微信公众号：
