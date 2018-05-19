@@ -30,6 +30,8 @@
 
 [14. 输入判断 2796: 数字求和](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2796.md)
 
+[15. 多重判断 2701: 与7无关的数](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2701.md)
+
 ## 顺序列表
 
 [1000](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/1000-1099/1000.md)
@@ -37,6 +39,7 @@
 [2681](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2681.md)
 [2684](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2684.md)
 [2699](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2699.md)
+[2701](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2701.md)
 [2718](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2718.md)
 [2720](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2720.md)
 [2728](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2728.md)
