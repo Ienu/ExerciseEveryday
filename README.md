@@ -32,6 +32,8 @@
 
 [15. 多重判断 2701: 与7无关的数](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2701.md)
 
+[16. 几何关系 2854: 点和正方形的关系](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2854.md)
+
 ## 顺序列表
 
 [1000](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/1000-1099/1000.md)
@@ -48,6 +50,7 @@
 [2734](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2734.md)
 [2735](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2735.md)
 [2796](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2796.md)
+[2854](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2854.md)
 [2869](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2869.md)
 
 微信公众号：
