@@ -40,6 +40,8 @@
 
 [19. 求平均数 2714: 求平均年龄](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2714.md)
 
+[20. 地铁运行 4094: 秘密会谈](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/4000-4099/4094.md)
+
 ## 顺序列表
 
 [1000](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/1000-1099/1000.md)
@@ -61,6 +63,7 @@
 [2796](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2796.md)
 [2854](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2854.md)
 [2869](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2869.md)
+[4094](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/4000-4099/4094.md)
 
 微信公众号：
 
