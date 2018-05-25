@@ -42,6 +42,8 @@
 
 [20. 地铁运行 4094: 秘密会谈](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/4000-4099/4094.md)
 
+[21. 字符串处理初探 2700: 字符替换](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2700.md)
+
 ## 顺序列表
 
 [1000](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/1000-1099/1000.md)
@@ -50,6 +52,7 @@
 [2684](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2684.md)
 [2687](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2687.md)
 [2699](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2600-2699/2699.md)
+[2700](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2700.md)
 [2701](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2701.md)
 [2709](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2709.md)
 [2714](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2714.md)
