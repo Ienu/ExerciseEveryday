@@ -44,6 +44,8 @@
 
 [21. 字符串处理初探 2700: 字符替换](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2700.md)
 
+[22. 无需遍历 2886: 能被3除尽的数之和](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2886.md)
+
 ## 顺序列表
 
 [1000](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/1000-1099/1000.md)
@@ -66,6 +68,7 @@
 [2796](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2700-2799/2796.md)
 [2854](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2854.md)
 [2869](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2869.md)
+[2886](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/2800-2899/2886.md)
 [4094](https://github.com/Ienu/ExerciseEveryday/blob/master/Page/4000-4099/4094.md)
 
 微信公众号：
