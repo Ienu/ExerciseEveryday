@@ -2,7 +2,7 @@
 using namespace std;
 int factor(int number, int s) {
 	int i, sum = 1;
-	for (i = s; i * i <= number; ++i)	{
+	for (i = s; i * i <= number; ++i) {
 		if (number % i == 0 && i <= number / i) {
 			sum += factor(number / i, i);
 		}
